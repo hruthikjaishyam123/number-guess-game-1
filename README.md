@@ -1,5 +1,6 @@
-to guess the number, follow the below steps:
-       1) guess a random number between 1 to 200
-       2) it tells you whether the number is too high or too low
-       3) based on these hints, change yiur number accordingly.
-       4) the game stops if you could be able to guess the correct number or if your chances run out.
+To start the number guess game:
+
+  1. give your name
+  2. guess a number between 1 and 200
+  3. it tells you if the number is low or high, according to which, you change your number
+  4. the game ends if you guess the correct number or if you run out of chances
